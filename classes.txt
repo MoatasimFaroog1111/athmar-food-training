@@ -1,0 +1,60 @@
+# Athmar Vision Count — أصناف المطاعم والمقاهي (التدريب)
+# format: class_id | الاسم الإنجليزي (للكلاس) | الاسم العربي (للعرض)
+# =============================================================
+
+# --- البروتينات واللحوم ---
+whole_chicken | whole_chicken | دجاجة كاملة
+chicken_breast | chicken_breast | صدور دجاج
+grilled_chicken | grilled_chicken | شواية دجاج
+fried_chicken | fried_chicken | بروستد / دجاج مقلي
+chicken_wings | chicken_wings | أجنحة دجاج
+kebab | kebab | كباب / مشاوي
+beef_steak | beef_steak | ستيك لحم
+burger_patty | burger_patty | قرص برجر
+fish | fish | سمك
+
+# --- البهارات والتوابل ---
+cumin | cumin | كمون
+turmeric | turmeric | كركم
+black_pepper | black_pepper | فلفل أسود
+cinnamon | cinnamon | قرفة
+cardamom | cardamom | هيل
+saffron | saffron | زعفران
+paprika | paprika | بابريكا / فلفل أحمر
+curry_powder | curry_powder | بهارات كاري
+
+# --- المشروبات الساخنة ---
+arabic_coffee | arabic_coffee | قهوة عربية
+turkish_coffee | turkish_coffee | قهوة تركي
+espresso | espresso | إسبريسو
+tea | tea | شاي
+tea_cup | tea_cup | كوب شاي / استكانة
+
+# --- المشروبات الباردة ---
+juice_glass | juice_glass | كوب عصير
+water_bottle | water_bottle | قارورة ماء
+soda_can | soda_can | علبة مشروب غازي
+
+# --- أدوات وأواني المطبخ ---
+coffee_cup | coffee_cup | فنجان قهوة
+mug | mug | كوب / مج
+glass | glass | كاسة / كأس
+plate | plate | صحن
+bowl | bowl | وعاء / زبدية
+spoon | spoon | ملعقة
+fork | fork | شوكة
+knife | knife | سكين
+coffee_pot | coffee_pot | دلة قهوة
+tray | tray | صينية
+
+# --- المخبوزات ---
+bread | bread | خبز
+burger_bun | burger_bun | خبز برجر
+croissant | croissant | كرواسون
+
+# --- الخضار والفواكه ---
+onion | onion | بصل
+tomato | tomato | طماطم
+potato | potato | بطاطس
+lemon | lemon | ليمون
+garlic | garlic | ثوم
