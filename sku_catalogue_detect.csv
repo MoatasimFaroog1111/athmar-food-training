@@ -1,0 +1,24 @@
+label_index,sku,name_en,name_ar,active
+0,bottle,Water Bottle,قارورة ماء,true
+1,wine_glass,Glass,كأس,true
+2,cup,Cup,فنجان / كوب,true
+3,fork,Fork,شوكة,true
+4,knife,Knife,سكين,true
+5,spoon,Spoon,ملعقة,true
+6,bowl,Bowl,وعاء / زبدية,true
+7,banana,Banana,موز,true
+8,apple,Apple,تفاح,true
+9,sandwich,Sandwich,ساندويتش,true
+10,orange,Orange,برتقال,true
+11,broccoli,Broccoli,بروكلي,true
+12,carrot,Carrot,جزر,true
+13,hot_dog,Hot Dog,هوت دوغ,true
+14,pizza,Pizza,بيتزا,true
+15,donut,Donut,دونات,true
+16,cake,Cake,كيك,true
+17,dining_table,Dining Table,طاولة طعام,true
+18,microwave,Microwave,ميكروويف,true
+19,oven,Oven,فرن,true
+20,toaster,Toaster,محمصة خبز,true
+21,sink,Sink,مغسلة,true
+22,refrigerator,Refrigerator,ثلاجة,true
