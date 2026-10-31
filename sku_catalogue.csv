@@ -1,0 +1,16 @@
+label_index,sku,name_en,name_ar,active
+0,beef_steak,Beef Steak,ستيك لحم,true
+1,bread,Bread,خبز,true
+2,burger_bun,Burger Bun,خبز برجر,true
+3,burger_patty,Burger Patty,قرص برجر,true
+4,chicken_wings,Chicken Wings,أجنحة دجاج,true
+5,croissant,Croissant,كرواسون,true
+6,curry_powder,Curry Powder,بهارات كاري,true
+7,fish,Fish,سمك,true
+8,fried_chicken,Fried Chicken,بروستد / دجاج مقلي,true
+9,garlic,Garlic,ثوم,true
+10,kebab,Kebab,كباب / مشاوي,true
+11,onion,Onion,بصل,true
+12,potato,Potato,بطاطس,true
+13,tomato,Tomato,طماطم,true
+14,turmeric,Turmeric,كركم,true
